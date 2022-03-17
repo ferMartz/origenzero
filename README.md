@@ -36,21 +36,22 @@ Advantages:
 - [x] Contact staffing agency
 - [x] Research average salaries
 - [x] Send developer profiles to agency
-- [ ] Translate developer profiles to Spanish
 - [ ] Contact remote spaces office to get a quote
 - [ ] Contact legal office
 - [ ] Interview developers
-  - [ ] Senior
-  - [ ] Mid-level
-  - [ ] Junior
+  - [ ] Team Lead / Scrum Master / Full Stack Developer
+  - [ ] Back End Developer
+  - [ ] Front End Developer
+  - [ ] Software Engineer II Rust
+  - [ ] Test Automation Engineer
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Documents
 
 - [Origyn - Recruiting Overview](https://github.com/ferMartz/origenzero/blob/main/origyn-recruiting-overview.md)
-- [Origyn - Team Lead](https://github.com/ferMartz/origenzero/blob/main/origyn-team-lead.md)
+- [Origyn - Team Lead](https://github.com/ferMartz/origenzero/blob/main/origyn-team-lead-developer.md)
 - [Origyn - Back End Developer](https://github.com/ferMartz/origenzero/blob/main/origyn-back-end-developer.md)
 - [Origyn - Front End Developer](https://github.com/ferMartz/origenzero/blob/main/origyn-front-end-developer.md)
-- [Origyn - Test Automation Engineer](https://github.com/ferMartz/origenzero/blob/main/origyn-software-engineer-II-rust.md)
+- [Origyn - Software Engineer II Rust](https://github.com/ferMartz/origenzero/blob/main/origyn-software-engineer-II-rust.md)
 - [Origyn - Test Automation Engineer](https://github.com/ferMartz/origenzero/blob/main/origyn-test-automation-engineer.md)

@@ -1,4 +1,4 @@
-# Team Lead / Scrum Master / Full stack developer (Level III or IV)
+# Team Lead / Scrum Master / Full Stack Developer (Level III or IV)
 
 [Back home](https://github.com/ferMartz/origenzero)
 
