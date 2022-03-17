@@ -4,6 +4,7 @@
  <ol>
     <li><a href="#about-the-project">About The Project</a></li> 
     <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#documents">Documents</a></li>
   </ol>
 
 <!-- ABOUT THE PROJECT -->
@@ -49,3 +50,7 @@ Advantages:
 
 - [Origyn - Recruiting Overview](https://github.com/ferMartz/origenzero/blob/main/origyn-recruiting-overview.md)
 - [Origyn - Team Lead](https://github.com/ferMartz/origenzero/blob/main/origyn-team-lead.md)
+- [Origyn - Back End Developer](https://github.com/ferMartz/origenzero/blob/main/origyn-back-end-developer.md)
+- [Origyn - Front End Developer](https://github.com/ferMartz/origenzero/blob/main/origyn-front-end-developer.md)
+- [Origyn - Test Automation Engineer](https://github.com/ferMartz/origenzero/blob/main/origyn-software-engineer-II-rust.md)
+- [Origyn - Test Automation Engineer](https://github.com/ferMartz/origenzero/blob/main/origyn-test-automation-engineer.md)
