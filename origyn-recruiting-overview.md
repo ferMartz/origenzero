@@ -42,3 +42,14 @@ We are seeking organizations or individuals who can fulfill either of below role
   - Agencies are transparent with ORIGYN regarding the hourly rate paid to the resource and the hourly markup they charge
   - After 12 months, ORIGYN can hire each resource as a full time employee without a penalty.
   - ORIGYN treats each resource as a dedicated resource and the agency’s role is solely to facilitate payments and fulfill any local employment obligations.
+
+#### PODs (Scrum teams)
+
+Below is our desired POD composition in the order of priority.
+
+| Quantity | Role                                            | Level           |
+| -------- | ----------------------------------------------- | --------------- |
+| 1        | Team Lead / Scrum Master / Full stack developer | Level III or IV |
+| 2        | Front-end developer                             | Level II or III |
+| 2        | Back-end developer                              | Level II or III |
+| 2        | Team Automation Engineer                        | Level II or III |
