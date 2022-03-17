@@ -11,7 +11,7 @@
 
 ## About The Project
 
-The purpose of this project is to assemble a team of developers in México.
+The purpose of this project is to build a team of developers in México.
 
 Advantages:
 
@@ -50,7 +50,7 @@ Advantages:
 ## Documents
 
 - [Origyn - Recruiting Overview](https://github.com/ferMartz/origenzero/blob/main/origyn-recruiting-overview.md)
-- [Origyn - Team Lead](https://github.com/ferMartz/origenzero/blob/main/origyn-team-lead-developer.md)
+- [Origyn - Team Lead Developer](https://github.com/ferMartz/origenzero/blob/main/origyn-team-lead-developer.md)
 - [Origyn - Back End Developer](https://github.com/ferMartz/origenzero/blob/main/origyn-back-end-developer.md)
 - [Origyn - Front End Developer](https://github.com/ferMartz/origenzero/blob/main/origyn-front-end-developer.md)
 - [Origyn - Software Engineer II Rust](https://github.com/ferMartz/origenzero/blob/main/origyn-software-engineer-II-rust.md)
