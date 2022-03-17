@@ -48,3 +48,4 @@ Advantages:
 ## Documents
 
 - [Origyn - Recruiting Overview](https://github.com/ferMartz/origenzero/blob/main/origyn-recruiting-overview.md)
+- [Origyn - Team Lead](https://github.com/ferMartz/origenzero/blob/main/origyn-team-lead.md)
