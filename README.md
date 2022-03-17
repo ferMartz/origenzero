@@ -14,9 +14,14 @@ The purpose of this project is to assemble a team of developers in México.
 
 Advantages:
 
-- Full support of a team member for hiring developers and open an office
-- Great pool of talented developers in México
-- Contacts with local staffing agencies, developers, other developer teams, legal offices, etc
+- Full support of a team member for hiring developers and open an office in México
+- Great pool of talented developers
+- Contacts with local:
+  - Staffing agencies
+  - Developers
+  - Other developer teams
+  - Legal offices
+  - Remote office spaces rental
 - It makes financial sense in terms of developer hourly rates
 - Timezones are very similiar to United States
 - Flights from many US cities to México are 1-3 hours duration
