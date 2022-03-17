@@ -12,7 +12,7 @@
 
 The purpose of this project is to assemble a team of developers in México.
 
-Here's why:
+Advantages:
 
 - Full support of a team member for hiring developers and open an office
 - Great pool of talented developers in México
