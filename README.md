@@ -32,7 +32,7 @@ Advantages:
 
 ## Roadmap
 
-- [x] Contact staffing agency (SEERH)
+- [x] Contact staffing agency
 - [x] Research average salaries
 - [x] Send developer profiles to agency
 - [ ] Translate developer profiles to Spanish

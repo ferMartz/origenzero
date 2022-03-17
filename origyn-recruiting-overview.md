@@ -53,3 +53,12 @@ Below is our desired POD composition in the order of priority.
 | 2        | Front-end developer                             | Level II or III |
 | 2        | Back-end developer                              | Level II or III |
 | 2        | Team Automation Engineer                        | Level II or III |
+
+#### Communication and Tools
+
+Each team will have access to ORIGYN tools including below. The company's official language is English. Each resource is required to pass English proficiency and will be required to communicate with the team members in written form in English.
+
+- Communication / chat such as Slack
+- SDLC such as Jira
+- Repository such as GitHub
+- Documentation such as Confluence
