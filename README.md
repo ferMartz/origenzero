@@ -22,3 +22,20 @@ Here's why:
 - Flights from many US cities to México are 1-3 hours duration
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+<!-- ROADMAP -->
+
+## Roadmap
+
+- [x] Contact staffing agency (SEERH)
+- [x] Research average salaries
+- [x] Send developer profiles to agency
+- [ ] Translate developer profiles to Spanish
+- [ ] Contact remote spaces office to get a quote
+- [ ] Contact legal office
+- [ ] Interview developers
+  - [ ] Senior
+  - [ ] Mid-level
+  - [ ] Junior
+
+<p align="right">(<a href="#top">back to top</a>)</p>
